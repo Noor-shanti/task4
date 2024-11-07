@@ -1,0 +1,20 @@
+.one{
+    text-align: center;
+}
+.two{
+    float: left;
+    width: 33.333%;
+    text-align: center;
+}
+.clearf
+{
+    clear: both;
+}
+i{
+    color: white;
+    background-color:yellow ;
+    font-size:30px;
+    text-align: center;
+    width: 50px;
+    height: 40px;
+}
